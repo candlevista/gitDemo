@@ -15,6 +15,7 @@
 		0804E68D1BE8AB20009A0A51 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0804E68B1BE8AB20009A0A51 /* LaunchScreen.xib */; };
 		0804E6991BE8AB20009A0A51 /* aaaaaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0804E6981BE8AB20009A0A51 /* aaaaaTests.m */; };
 		0804E6A71BE8AFE7009A0A51 /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0804E6A61BE8AFE7009A0A51 /* TableViewController.m */; };
+		0804E6AA1BE8B06C009A0A51 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0804E6A91BE8B06C009A0A51 /* TableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		0804E6981BE8AB20009A0A51 /* aaaaaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aaaaaTests.m; sourceTree = "<group>"; };
 		0804E6A51BE8AFE7009A0A51 /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
 		0804E6A61BE8AFE7009A0A51 /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		0804E6A81BE8B06C009A0A51 /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		0804E6A91BE8B06C009A0A51 /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				0804E6841BE8AB20009A0A51 /* ViewController.m */,
 				0804E6A51BE8AFE7009A0A51 /* TableViewController.h */,
 				0804E6A61BE8AFE7009A0A51 /* TableViewController.m */,
+				0804E6A81BE8B06C009A0A51 /* TableViewCell.h */,
+				0804E6A91BE8B06C009A0A51 /* TableViewCell.m */,
 				0804E6861BE8AB20009A0A51 /* Main.storyboard */,
 				0804E6891BE8AB20009A0A51 /* Images.xcassets */,
 				0804E68B1BE8AB20009A0A51 /* LaunchScreen.xib */,
@@ -227,6 +232,7 @@
 				0804E6851BE8AB20009A0A51 /* ViewController.m in Sources */,
 				0804E6821BE8AB20009A0A51 /* AppDelegate.m in Sources */,
 				0804E67F1BE8AB20009A0A51 /* main.m in Sources */,
+				0804E6AA1BE8B06C009A0A51 /* TableViewCell.m in Sources */,
 				0804E6A71BE8AFE7009A0A51 /* TableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
